@@ -1,5 +1,8 @@
-## Hi there 👋
-
+About Me
+IT業界を志望している大学生です。
+現在はLinuxやネットワークの基礎を学習しています。
+将来的には、設計から構築までかかわれるエンジニアを目指しています。
+学習内容や成果物をこのページに公開していきます。
 <!--
 **saitouibuki0201-web/saitouibuki0201-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
